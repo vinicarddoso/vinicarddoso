@@ -8,7 +8,7 @@
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=vinicarddoso&show_icons=true&theme=transparent&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=vinicarddoso"
         alt="Stats"
       />
     </td>
