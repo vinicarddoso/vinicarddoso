@@ -8,3 +8,5 @@
     </td>
   </tr>
 </table>
+
+[![vinicarddoso's GitHub stats](https://github-stats-extended.vercel.app/api?username=vinicarddoso)](https://github.com/stats-organization/github-stats-extended)
