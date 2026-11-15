@@ -1,12 +1,3 @@
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=vinicarddoso&theme=transparent&hide_border=true"
-        alt="Streak"
-      />
-    </td>
-  </tr>
-</table>
+[![vinicarddoso's Streak](https://github-readme-streak-stats.herokuapp.com?user=vinicarddoso&theme=transparent&hide_border=true)](https://github-readme-streak-stats.herokuapp.com?user=vinicarddoso&theme=transparent&hide_border=true)
 
-[![vinicarddoso's GitHub stats](https://github-stats-extended.vercel.app/api?username=vinicarddoso)](https://github.com/stats-organization/github-stats-extended)
+[![vinicarddoso's GitHub stats](https://github-stats-extended.vercel.app/api?username=vinicarddoso&theme=transparent&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
