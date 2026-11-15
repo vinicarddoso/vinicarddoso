@@ -1,3 +1,18 @@
-[![vinicarddoso's Streak](https://github-readme-streak-stats.herokuapp.com?user=vinicarddoso&theme=transparent&hide_border=true)](https://github-readme-streak-stats.herokuapp.com?user=vinicarddoso&theme=transparent&hide_border=true)
-
-[![vinicarddoso's GitHub stats](https://github-stats-extended.vercel.app/api?username=vinicarddoso&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=)](https://github.com/stats-organization/github-stats-extended)
+<a href="https://github-stats-extended.vercel.app/api?username=vinicarddoso">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=vinicarddoso&theme=highcontrast"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=vinicarddoso&theme=highcontrast" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=vinicarddoso&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=vinicarddoso&layout=compact&langs_count=8&card_width=320&theme=highcontrast"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=vinicarddoso&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
+  </picture>
+</a>
