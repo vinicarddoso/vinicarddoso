@@ -1,7 +1,7 @@
 <a href="https://github-stats-extended.vercel.app/api?username=vinicarddoso">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=vinicarddoso&theme=highcontrast"
+      srcset="https://github-stats-extended.vercel.app/api?username=vinicarddoso&include_all_commits=true&theme=highcontrast&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <img height="190" align="center" src="https://github-stats-extended.vercel.app/api?username=vinicarddoso&theme=highcontrast" />
